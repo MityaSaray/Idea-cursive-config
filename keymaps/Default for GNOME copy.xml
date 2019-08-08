@@ -1,0 +1,18 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id=":cursive.actions.paredit/backward" />
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id=":cursive.actions.paredit/forward" />
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="ReformatCode" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>

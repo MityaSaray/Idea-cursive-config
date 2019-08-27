@@ -11,8 +11,4 @@
   </action>
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
-  <action id="ReformatCode" />
-  <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-  </action>
 </keymap>

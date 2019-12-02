@@ -15,5 +15,26 @@
         </entry>
       </map>
     </option>
+    <option name="forcedAssociations">
+      <map>
+        <entry>
+          <key>
+            <array>
+              <option value="file://$USER_HOME$/Documents/Projects/myProjects/tglinkaggregator/src/tg_link_aggregator_front/core.cljs" />
+              <option value="file://$USER_HOME$/Documents/Projects/myProjects/tglinkaggregator/" />
+            </array>
+          </key>
+          <value>
+            <array>
+              <option value="rawCommand" />
+              <option value="clj;cljs;cljc;edn" />
+              <option value="java" />
+              <option value="-jar" />
+              <option value="$USER_HOME$/Downloads/clj-kondo-lsp-server-2019.11.23-standalone.jar" />
+            </array>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </application>

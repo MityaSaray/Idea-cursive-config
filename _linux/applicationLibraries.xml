@@ -1,9 +1,23 @@
 <application>
   <component name="libraryTable">
     <library name="scala-sdk-2.13.0">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
+      <ANNOTATIONS>
+        <root url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" />
+      </JAVADOC>
+      <NATIVE>
+        <root url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" />
+      </NATIVE>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/Documents/Projects/myProjects/Scala_scrapper" recursive="false" type="SOURCES" />
     </library>
     <library name="scala-sdk-2.13.1" type="Scala">
       <properties>

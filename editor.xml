@@ -3,4 +3,12 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Scala" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
 </application>

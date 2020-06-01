@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <ClojureCodeStyleSettings>{
+  :clojure.java.jdbc/result-set-read-column 1000
   :cursive.formatting/align-binding-forms true
 }</ClojureCodeStyleSettings>
   <DBN-PSQL>

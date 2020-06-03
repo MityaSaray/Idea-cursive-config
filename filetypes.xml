@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="Main.scala" type="Scala" />
     </extensionMap>
   </component>

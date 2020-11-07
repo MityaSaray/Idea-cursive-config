@@ -4,6 +4,7 @@
   </component>
   <component name="ScalaApplicationSettings">
     <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
+    <option name="HANDLE_BLOCK_BRACES_REMOVAL_AUTOMATICALLY" value="true" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
   </component>
 </application>

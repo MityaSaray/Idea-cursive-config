@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/algs4.jar'" />
-    <option name="defaultScopeName" value="File '.../src/algs4.jar'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/algs4.jar'" />
+    <option name="customScope" value="Project 'java-test'" />
+    <option name="defaultScopeName" value="Project 'java-test'" />
+    <option name="SEARCH_SCOPE" value="Project 'java-test'" />
   </component>
 </application>

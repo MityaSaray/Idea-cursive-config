@@ -2,22 +2,36 @@
   <action id=":cursive.actions.paredit/backward" />
   <action id=":cursive.actions.paredit/barf-forwards">
     <keyboard-shortcut first-keystroke="shift alt j" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id=":cursive.actions.paredit/forward" />
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="shift alt k" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
+  <action id=":cursive.repl.actions/next-history-item" />
+  <action id=":cursive.repl.actions/prev-history-item" />
   <action id=":cursive.repl.actions/run-last-sexp">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id=":cursive.repl.actions/run-top-sexp" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">

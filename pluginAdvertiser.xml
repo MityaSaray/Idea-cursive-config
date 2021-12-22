@@ -155,7 +155,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginName" value="CSV" />
             </plugin>
           </value>
         </entry>
@@ -911,7 +911,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginName" value="CSV" />
             </plugin>
           </value>
         </entry>
@@ -1101,7 +1101,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginName" value="CSV" />
             </plugin>
           </value>
         </entry>
@@ -1194,7 +1194,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginName" value="CSV" />
             </plugin>
           </value>
         </entry>
@@ -1540,6 +1540,11 @@
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="Babashka">
+                    <value>
+                      <FeaturePluginData displayName="Babashka Local REPL" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
+                    </value>
+                  </entry>
                   <entry key="ClojureREPL">
                     <value>
                       <FeaturePluginData displayName="Clojure REPL" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
@@ -1680,6 +1685,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="BABASHKA">
+                    <value>
+                      <FeaturePluginData displayName="Babashka" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
+                    </value>
+                  </entry>
                   <entry key="android">
                     <value>
                       <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" />

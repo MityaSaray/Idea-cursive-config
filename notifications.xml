@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Leiningen Import" displayType="NONE" shouldLog="false" />
+    <notification groupId="Unindexed Maven repositories Cursive detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Unindexed Maven repositories detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>

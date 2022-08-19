@@ -3,7 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.expo" />
     <mask>.clj</mask>
     <mask>*.clj</mask>
+    <mask>*.expo</mask>
   </component>
 </application>
